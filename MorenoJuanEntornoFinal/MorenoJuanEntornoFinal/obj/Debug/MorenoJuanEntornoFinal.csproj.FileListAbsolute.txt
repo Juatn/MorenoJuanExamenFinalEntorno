@@ -1,0 +1,6 @@
+C:\Users\Juan\Desktop\Proyectos\Proyectos Visual Studio\Relacion arrays con funciones\MorenoJuanEntornoFinal\MorenoJuanEntornoFinal\bin\Debug\MorenoJuanEntornoFinal.exe.config
+C:\Users\Juan\Desktop\Proyectos\Proyectos Visual Studio\Relacion arrays con funciones\MorenoJuanEntornoFinal\MorenoJuanEntornoFinal\bin\Debug\MorenoJuanEntornoFinal.exe
+C:\Users\Juan\Desktop\Proyectos\Proyectos Visual Studio\Relacion arrays con funciones\MorenoJuanEntornoFinal\MorenoJuanEntornoFinal\bin\Debug\MorenoJuanEntornoFinal.pdb
+C:\Users\Juan\Desktop\Proyectos\Proyectos Visual Studio\Relacion arrays con funciones\MorenoJuanEntornoFinal\MorenoJuanEntornoFinal\obj\Debug\MorenoJuanEntornoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\Proyectos\Proyectos Visual Studio\Relacion arrays con funciones\MorenoJuanEntornoFinal\MorenoJuanEntornoFinal\obj\Debug\MorenoJuanEntornoFinal.exe
+C:\Users\Juan\Desktop\Proyectos\Proyectos Visual Studio\Relacion arrays con funciones\MorenoJuanEntornoFinal\MorenoJuanEntornoFinal\obj\Debug\MorenoJuanEntornoFinal.pdb
